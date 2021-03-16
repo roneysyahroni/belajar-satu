@@ -1,2 +1,2 @@
 # belajar-satu
-coba belajar git
+coba belajar git ya
